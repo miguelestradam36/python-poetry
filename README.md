@@ -1,2 +1,3 @@
-# python-poetry
+# Python poetry
+
 Poetry example project
