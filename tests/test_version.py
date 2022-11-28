@@ -8,4 +8,4 @@ def test_version():
     Params:
     """
     import sys
-    assert sys.version_info[0] < 3
+    assert sys.version_info[0] <= 3
